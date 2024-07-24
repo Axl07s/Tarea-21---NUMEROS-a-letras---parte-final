@@ -5,8 +5,8 @@
 
 #include<iostream>
 #include<string>
-#include<cstdlib>
-#include<ctime>
+#include<stdlib.h>
+#include<time.h>
 
 using namespace std;
 
